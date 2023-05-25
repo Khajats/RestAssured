@@ -1,0 +1,12 @@
+{
+	"id": 18,
+	"first_name": "Sebastian",
+	"last_name": "Eschweiler",
+	"email": "sebastian@codingthesmartway.com",
+	"job":["tester","yrainer"],
+	"favratefood":{
+		"breakfast":"idle",
+		"lunch":["chapati","milk"],
+		"dinner":"rice"	
+	}
+}
